@@ -73,4 +73,4 @@ Evoluir como desenvolvedor full stack, unindo base acadêmica e prática para cr
 ## 📫 Contato
 
 - GitHub: https://github.com/garfield-gar  
-- Email: seu-email-aqui@email.com
+- Email: rennna078@gmail.com
