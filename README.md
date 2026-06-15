@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Garfield!
+# 👋 Olá, eu sou o Charles!
 
 💻 Desenvolvedor com formação em **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**, focado em desenvolvimento web e evolução para full stack.
 
@@ -35,6 +35,7 @@ Gosto de transformar aprendizado em projetos reais.
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 ---
 
